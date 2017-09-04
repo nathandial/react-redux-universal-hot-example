@@ -1,14 +1,14 @@
 {
   "name": "react-redux-universal-hot-example",
-  "description": "Example of an isomorphic (universal) webapp using react redux and hot reloading",
-  "author": "Erik Rasmussen <rasmussenerik@gmail.com> (http://github.com/erikras)",
+  "description": "Example of an universal (isomorphic) webapp using react redux and hot reloading",
+  "author": "Nathan Dial <nathan.dial@gmail.com> (http://github.com/nathandial)",
   "license": "MIT",
   "version": "0.9.0",
   "repository": {
     "type": "git",
-    "url": "https://github.com/erikras/react-redux-universal-hot-example"
+    "url": "https://github.com/nathandial/react-redux-universal-hot-example"
   },
-  "homepage": "https://github.com/erikras/react-redux-universal-hot-example",
+  "homepage": "https://github.com/nathandial/react-redux-universal-hot-example",
   "keywords": [
     "react",
     "isomorphic",
@@ -196,13 +196,13 @@
     "husky": "^0.14.3",
     "jest": "^20.0.1",
     "jest-cli": "^20.0.1",
-    "karma": "^1.4.1",
+    "karma": "^1.7.1",
     "karma-cli": "^1.0.1",
     "karma-mocha": "^1.3.0",
-    "karma-mocha-reporter": "^2.2.2",
-    "karma-phantomjs-launcher": "^1.0.2",
+    "karma-mocha-reporter": "^2.2.4",
+    "karma-phantomjs-launcher": "^1.0.4",
     "karma-sourcemap-loader": "^0.3.7",
-    "karma-webpack": "^2.0.2",
+    "karma-webpack": "^2.0.4",
     "less": "^2.7.2",
     "less-loader": "^4.0.3",
     "lighthouse": "^2.4.0",
